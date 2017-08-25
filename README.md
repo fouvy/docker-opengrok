@@ -4,7 +4,7 @@ opengrok version: [opengrok-1.0](https://github.com/OpenGrok/OpenGrok/releases/d
 
 image base on: [tomcat:9.0](https://registry.hub.docker.com/_/tomcat/)
 
-Chinese charactor support
+Chinese characters support
 
 # ToDo:
 
