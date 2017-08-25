@@ -1,8 +1,16 @@
 # OpenGrok:
 
-opengrok version: [opengrok-0.12.1.5](https://java.net/projects/opengrok/downloads/download/opengrok-0.12.1.5.tar.gz)
+opengrok version: [opengrok-1.0](https://github.com/OpenGrok/OpenGrok/releases/download/1.0/opengrok-1.0.tar.gz)
 
-image base on: [tomcat:8.0](https://registry.hub.docker.com/_/tomcat/)
+image base on: [tomcat:9.0](https://registry.hub.docker.com/_/tomcat/)
+
+Chinese charactor support
+
+# ToDo:
+
+* remove download link
+
+* auth support
 
 ## Start:
 
